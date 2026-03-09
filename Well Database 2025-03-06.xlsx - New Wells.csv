@@ -1,0 +1,110 @@
+NEW,Total # Active Wells,84,,"  145,176 ",Total # People Served,,,0,Total # Unknown Status Wells,,,,12,Total # FAILED New Wells,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New Well #,Village,Active?,New/Rpr,#  Served,Latitude,Longitude,District,Region,TZ Install Date,Install Date,Pump Mfg/Model,Pump Type,Depth (Ft),Depth (Mtr),Water Struck (Mtr),Water Depth (Mtr),L/Min,Water Quality,Village Contact,Contact Tel #,H2O Leader,UTM East,UTM North,Photos (Yes/No),Total Costs (TSH),Total Costs (USD),Dedicated To,Dedicated By,Other Comments
+,Wells Developed pre-2023,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+N22-1,Amani,YES,New,"3,500",,,Bukoba Rural,Kagera,0,0,Franklin Electric,Electric,394,  120.09 ,,,,,,,,,,,,,St Audrey,Lee Family,In Honor of St Audrey
+N22-2,Aristotle (cancelled),NO,New,,,,,,0,0,,,,,,,,,,,,,,,,,,,
+N22-3,Aristotle Secondary School,YES,New,999,"1° 31' 12.69"" S","31° 9' 38.12"" E",Karagwe,Kagera,0,0,Franklin Electric,Electric,689,  210.01 ,,,,,,,,295356,9831885,,,,B. Louis & Margherita Vogel,Marina & Anthony Vogel,"In Loving Memory of our dear parents, B. Louis & Margherita Vogel"
+N22-4,Bituntu,YES,New,950,"1°37' 17.35"" S","31° 28' 20.74"" E",Bukoba Rural,Kagera,0,0,Indian Mark II,Hand,145,  44.20 ,,,n/a,,,,,330187,9821010,,,,Aaron & Helene Paris,Aaron & Helene Paris,
+N22-5,Bunazi,YES,New,"2,500",,,Misenye',Kagera,0,0,Tanira,Hand,98,  29.87 ,,,n/a,,,,,,,,,,,,
+N22-6,Buseresere (destroyed by earthquake),no,New,,,,,,0,0,,,,,,,,,,,,,,,,,,,
+N22-7,Bushasha,YES,New,999,"1° 5' 10.91"" S","31° 48' 33.35"" E",Bukoba Rural,Kagera,0,0,Franklin Electric,Electric,136,  41.45 ,,,,,,,,367515,9879898,,,,Rancho Carrillo,Rancho Carrillo Neighbors,From your Neighbors in Rancho Carrillo
+N22-8,Bushasha (2nd well),YES,New,999,"1° 5' 10.19"" S","31° 48' 37.19"" E",Bukoba Rural,Kagera,0,0,Franklin Electric,Electric,131,  39.93 ,,,,,,,,367629,9879920,,,,Sofia Moysidis,Leon & Elly Gabrielian,"In Honor of our loving Mother, Sofia Moyselidis"
+N22-9,Bushasha (3rd well),no,New,,,,,,0,0,,,,,,,,,,,,,,,,,,,
+N22-10,Buturage -- no electrcity,no,New,999,"1° 29' 21.81"" S","31° 29' 50.41"" E",Bukoba Rural,Kagera,0,0,Franklin Electric,Electric,164,  49.99 ,,,,,,,,332828,9835320,,,,,,
+N22-11,Buzi,no,New,999,,,Bukoba Rural,Kagera,0,0,,,,,,,,,,,,,,,,,,,
+N22-12,Chigazi,YES,New,950,"1° 0' 18.07"" S","31° 33' 15.52"" E",Misenye',Kagera,0,0,Tanira,Hand,98.5,  30.02 ,,,n/a,,,,,339059,9889182,,,,,"Family of Costantinos I. Christodoulou Family, Athens, Greece",
+N22-13,Genge Saba (destroyed by earthquake),NO,New,,,,,,0,0,,,,,,,,,,,,,,,,,,,
+N22-14,Ibale,YES,New,999,,,Muleba,Kagera,0,0,,,,,,,,,,,,,,,,,,,
+N22-15,Ikondo,YES,New,999,,,Muleba,Kagera,0,0,,,,,,,,,,,,,,,,,,,
+N22-16,Iteera,YES,New,999,"1° 30' 39.22"" S","30° 56' 22.06"" E",Kyerwa,Kagera,0,0,,,394,  120.09 ,,,,,,,,270743,9832891,,,,,,
+N22-17,Kabwoba,YES,New,999,"1° 05' 52.6"" S","31° 24' 57.0"" E",Misenye',Kagera,0,0,,Electric,131,  39.93 ,,,,,,,,323604,9878892,,,,,,
+N22-18,Kagarama (2800) (no pump inst in 2023 -- road not accessible,YES,New,0,"1° 24' 20"" S","31° 32' 23.9 "" E",Bukoba Rural,Kagera,0,0,-,-,,  57.30 ,,,,,,,,340403,9844432,,"  13,477,423 "," $ 5,391 ",People of Kagarama,"Colleen Allen of St Barnabas Church, Cost Mesa",Road was not accessible in 2023
+N22-19,Kagemu (cancelled),NO,New,,,,,,0,0,,,,,,,,,,,,,,,,,,,
+N22-20,Kaibanja (2nd well),YES,New,999,,,Bukoba Rural,Kagera,0,0,Indian Mark II,Hand,95,  28.96 ,,,n/a,,,,,,,,,,,,Second well in Kalbanja
+N22-21,Kakerere,YES,New,999,"1° 29' 18.60"" S","30° 50' 43.88"" E",Karagwe,Kagera,0,0,Franklin Electric,Electric,361,  110.03 ,,,,,,,,260284,9835358,,,,,,
+N22-22,Kamuli,YES,New,999,"1° 37' 36.26"" S","31° 26' 39.91"" E",Bukoba Rural,Kagera,0,0,Indian Mark II,Hand,223,  67.97 ,,,n/a,,,,,326950,9820129,,,,,,
+N22-23,Kantaga,YES,New,999,"1° 15' 44.1"" S","30° 52' 33.5"" E",Kyerwa,Kagera,0,0,Indian Mark II,Hand,98,  29.87 ,,,n/a,,,,,263650,9860398,,,,,,
+N22-24,Kanyala/Kasamwa,NO,New,,,,Geita,Geita,0,0,Tanira,Hand,85,  25.91 ,,,n/a,,,,,,,,,,,,Destroyed by Earthquake
+N22-25,Kashasha,YES,New,999,"1° 14' 42.84"" S","31° 26' 52.89"" E",Misenye',Kagera,0,0,Dayliss,Electric,164,  49.99 ,,,,,,,,327235,9862617,,,,,,
+N22-26,Katera,YES,New,999,"1° 19' 44.36"" S","30° 42' 40.35"" E",Kyerwa,Kagera,0,0,Indian Mark II,Hand,325,  99.06 ,,,n/a,,,,,245314,9852298,,,,,,
+N22-27,Katoro,YES,New,"2,600","1° 23' 38.66"" S","31° 29' 41.72"" E",Bukoba,Kagera,0,0,Doyin,Electric,117,  35.66 ,,,,,,,,332472,9846157,,,,,Local Community,
+N22-28,Katwe,YES,New,999,"1° 36' 9.70"" S","31° 16' 44.48"" E",Karagwe,Kagera,0,0,,,204,  62.18 ,,,,,,,,308543,9822773,,,,,,
+N22-29,Kazinga,YES,New,"3,200",,,Bukoba Rural,Kagera,0,0,Indian Mark II,Electric,223,  67.97 ,,,,,,,,3377705,9839783,,,,,,
+N22-30,Kenyana,YES,New,"3,500",,,Misenye',Kagera,0,0,Indian Mark II,Hand,221,  67.36 ,,,n/a,,,,,,,,,,Charles Ajalat,Lee Family,In Honor of St. George
+N22-31,Kibirizi,YES,New,999,"1° 36' 30.36"" S","31° 25' 2.07"" E",Bukoba Rural,Kagera,0,0,Franklin Electric,Electric,230,  70.10 ,,,,,,,,323925,9822151,,,,Phyllis Gates Finger & Alexander P. Haimanis,Al Mah Nee,In Honor of Phyllis Gates Finger & Alexander P. Haimanis
+N22-32,Kikagati,YES,New,999,"1° 34' 7.02"" S","31° 25' 2.92"" E",Bukoba Rural,Kagera,0,0,Indian Mark II,Hand,164,  49.99 ,,,n/a,,,,,323947,9826553,,,,,,
+N22-33,Kinang'o,YES,New,999,"2° 39' 6.99"" S","33° 20' 30.84"" E",Magu,Mwanza,0,0,Indian Mark II,Hand,98.4,  29.99 ,,,n/a,,,,,538020,9706877,,,,Mero & Lena Susnar,Lana Marme,"In Loving Memory of my dear parents, Mero & Lena Susnar"
+N22-34,Kishanje (2nd well),NO,New,,,,,,0,0,,,,,,,,,,,,,,,,,,,
+N22-35,Kiteme,YES,New,900,"2° 2' 39.09"" S","31° 28' 20.74"" E",Muleba,Kagera,0,0,Tanira,Hand,295.3,  90.01 ,,,n/a,,,,,,,,,,St Barbara,Zzwiegle Family,In Honor of St Barbara
+N22-36,Kitwe,YES,New,999,"1° 15' 39.09"" S","30° 55' 23.33"" E",Kyerwa,Kagera,0,0,,,361,  110.03 ,,,,,,,,268903,9860545,,,,Omiro & Lili Hiromedes,Hiromerides family,"In Loving Memory of parents & grandparents, Omiro & Lili Hiromedes"
+N22-37,Kobunshwi,YES,New,"3,860","1° 27' 3.75"" S","31° 26' 31.08"" E",Bukoba Rural,Kagera,0,0,Franklin Electric,Electric,384,  117.04 ,,,,,Tambua/School Teacher,,,0326664,9839556,,,,,Hudoff Family,"1st Well dug by Ken went dry,  this is 2nd well"
+N22-38,Kobunshwi (not completed/developed),NO,New,,,,,,0,0,,,,,,,,,,,,,,,,,,,
+N22-39,Kyerwa-Kido,YES,New,999,"1° 24' 23.40"" S","30° 45' 40.47"" E",Kyerwa,Kagera,0,0,Doyin,Electric,246,  74.98 ,,,,,,,,250892,9844419,,,,,,
+N22-40,Kyonga,YES,New,999,,,Muleba,Kagera,0,0,Franklin Electric,Electric,,,,,,,,,,,,,,,,,
+N22-41,Magu,YES,New,999,"2° 36' 27.40"" S","33° 25' 46.40"" E",Magu,Mwanza,0,0,Indian Mark II,Hand,98,  29.87 ,,,n/a,,,,,547750,9711770,,,,,"Rotary Club of Santa Barbara, CA",
+N22-42,Msasa (not completed),NO,New,,,,,,0,0,,,,,,,,,,,,,,,,,,,
+N22-43,Mutukula (collapsed),NO,New,,,,Muleba,Kagera,0,0,Tanira,Hand,102,  31.09 ,,,n/a,,,,,,,,,,,,
+N22-44,Mugaza,YES,New,999,"1° 27' 38.3"" S","31° 41' 4.5"" E",Bukoba Rural,Kagera,0,0,,,,,,,,,,,,0353661,9838512,,,,,,
+N22-45,Mutukula,YES,New,999,,,Misenye',Kagera,0,0,,,,,,,,,,,,,,,,,,,
+N22-46,Ntungamo,YES,New,"1,100","1° 28' 16.48"" S","31° 24' 16.27"" E",Bukoba Rural,Kagera,0,0,Tanira,Hand,158.5,  48.31 ,,,n/a,,,,,3222498,9837319,,,,,Linda Marie,
+N22-47,Nyegezi,YES,New,999,"2° 35' 35.72"" S","32° 55' 36.60"" E",Nyamagana,Mwanza,0,0,Franklin Electric,Electric,98,  29.87 ,,,,,,,,491866,9713365,,,,Lynn Wilson,St Barbara - Costa Mesa,In Loving Memory of Kh. Lynn Wilson
+N22-48,Ruhija,YES,New,"3,000",,,Bukoba Rural,Kagera,0,0,Indian Mark II,Hand,,,,,n/a,,,,,,,,,,St Helen,Hutchings Family,In Honor of St Helen
+N22-49,Ususuo Health Center (Kagemu?),YES,New,"2,500","1° 21' 15.01"" S","31° 47' 46.6"" E",Bukoba Rural,Kagera,0,0,Franklin Electric,Electric,361,  110.03 ,,,,,,,,366084,9850290,,,,Hutchings Family,Hutchings Family,
+N22-50,Rubale/St Sosthenes School,YES,New,"2,700","1° 35' 57.7"" S","31° 30' 57.9"" E",Bukoba Rural,Kagera,1/10/2015,1/10/2015,Doyin,Electric,170.6,  52.00 ,,,,,Headmaster,0762-868470,Headmaster,0334923,9823161,,,,Daniel & Charlotte Randolpolous,"""    """,Adam should we divid people served by 2?
+N22-51,Kasikizi,YES,New,"3,000","1° 30' 45.2"" S","31° 26' 48.4"" E",Bukoba Rural,Kagera,12/15/2015,12/15/2015,Franklin Electric,Electric,251,  76.51 ,,,,,,,,0327205,9832756,,,,Memory of Ernest & Athena Poulis,Basilios Poulis,"In Memory of Ernest & Athena Poulis, parents of Debra, John & Richard Polis siblings "
+N22-52,Kaibanja (school),YES,New,"1,940","1° 24' 25.28"" S","31° 33' 55.68"" E",Bukoba Rural,Kagera,1/30/2016,1/30/2016,Indian Mark II,Hand,131,  39.93 ,,,n/a,,,,,0337567,9844590,,,,Memory of B. Louis & Margherita Vogel,Marina Vogel,"Loving Memory of my dear parents, B. Louis and Margherita Vogel"
+N22-53,Rukoma,YES,New,"2,500","1° 39' 22.1"" S","31° 29' 37.3"" E",Bukoba Rural,Kagera,3/15/2016,3/15/2016,Indian Mark II,Hand,140,  42.67 ,,,n/a,,,,,0332435,9816882,,,,,Mary & Henry Webber,
+N22-54,Mutukula,YES,New,"3,000","1° 0' 8.9 "" S","31° 23' 42.1"" E",Misenye',Kagera,3/29/2016,3/29/2016,Tanira,Hand,98.4,  29.99 ,,,n/a,,,,,0321410,9889153,,,,Memory of Louis & Rosita Demourkas,John L. Demourkos,
+N22-55,Kanyala/Kasamwa,YES,New,"3,000","2° 50' 49.4"" S","32° 24' 12.4"" E",Geita,Geita,4/16/2016,4/16/2016,Tanira,Hand,98.4,  29.99 ,,,n/a,,,,,0433697,9685296,,,,,,
+N22-56,Nyankumbu,YES,New,"3,000","2° 54' 5"" S","32° 13' 28.1"" E",Geita,Geita,5/2/2016,5/2/2016,Franklin Electric,Electric,91,  27.74 ,,,,,,,,0413811,9679277,,,,,Dr. & Mrs. George Solomon,
+N22-57,Buseresere,YES,New,"3,020","3° 0' 35.4"" S","31° 54' 25.3"" E",Chato,Geita,5/27/2016,5/27/2016,Indian Mark II,Hand,82,  24.99 ,,,n/a,,,,,0378538,9667258,,,,St Katherine,Aviles Family,In Honor of St Katherine
+N22-58,Kishanje,YES,New,"2,000","1° 6' 46.8"" S","31° 50' 14"" E",Bukoba Rural,Kagera,6/25/2016,6/25/2016,Indian Mark II,Hand,131,  39.93 ,,,n/a,,,,,0370626,9876953,,,,"St Barbara Church, Cost Mesa",Allen,Og St Barbara Church of Cost Mesa
+N22-59,Genge Saba,YES,New,"3,500","3° 1' 5.7"" S","32° 9' 43.5"" E",Geita,Geita,8/24/2016,8/24/2016,Indian Mark II,Hand,91,  27.74 ,,,n/a,,,,,0406887,9666355,,,,Pamtelides Family,Pamtelides Family,
+N22-60,Busanda,YES,New,"6,500","3° 1' 12.2"" S","32° 6' 32.8"" E",Geita,Geita,8/28/2016,8/28/2016,Tanira,Hand,150,  45.72 ,,,n/a,,,,,0400998,9666148,,,,Demetrios the Martyr,Aviles Family,In Honor of St Demetrios the Martyr
+N22-61,Rubale/St Sosthenes School (2nd well),YES,New,"2,700",,,Bukoba Rural,Kagera,3/1/2018,3/1/2018,Indian Mark II,Hand,147.6,  44.99 ,,,,,Headmaster,0762-868470,Headmaster,,,,,,Mary & Henry Webber,"""   "" of Las Vegas",2nd well at St Sostenes school 
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Wells Developed 2023,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+N23-1,Ombweya,YES,New,"2,700","1° 36' 57.94"" S","31° 23' 14.15"" E",Bukoba Rural,Kagera,2/15/2023,2/15/2023,Tanira,Hand Pump,134.4,  41.00 ,,,45,,Goziberth Laurent,+255626851227,,320593,9821304,Yes,"  13,644,510 "," $ 5,458 ",People of Ombweya,Michael Allen Perardi,"Photos sent to Linda, Stella, Adam"
+N23-2,Kijongo,YES,New,"1,100","1° 24' 25.33"" S","31° 33' 55.07"" E",Bukoba Rural,Kagera,6/22/2023,6/22/2023,Tanira,Hand,,  33.00 ,,,45,,,,,340403,9844430,,"  12,605,122 "," $ 5,042 ",People of Kijongo,"2019 Hunger Strike Youth Retreat participants of St Paul's Greek Orthodox Church, Irvine, CA",
+N23-3,Itara,YES,New,750,"1° 9' 40.55"" S","31° 26' 24.72"" E",Misenye',Kagera,6/26/2023,6/26/2023,Tanira,Hand,,22,,,43.3,,,,,326447,9871597,,"  13,327,565 "," $ 5,331 ",People of Itara,"2019 Hunger Strike Youth Retreat participants of St Paul's Greek Orthodox Church, Irvine, CA",
+N23-4,Byamutemba,YES,New,950,"1° 6' 24.98"" S","31° 22' 14.8"" E",Misenye',Kagera,7/28/2023,7/28/2023,Tanira,Hand,,  25.00 ,,,81.7,,,,,318717,9877600,,"  12,681,785 "," $ 5,073 ",People of Byamutemba,Leon & Elly Gabrielian,
+N23-5,Karama,YES,New,"2,300","1° 40' 31.72"" S","31° 26' 11.77"" E",Bukoba Rural,Kagera,8/22/2023,8/22/2023,Tanira,Hand,,  49.00 ,,,n/a,,,,,326085,9814739,,"  14,251,180 "," $ 5,700 ",People of Karama,Colonel Andrey Fyodoro vich Petrov and St Xenia of St Petersburg,
+N23-6,Kyangoye,YES,New,"2,600","1° 40' 48.2"" S","31° 27' 43.83"" E",Bukoba Rural,Kagera,8/28/2023,8/28/2023,Tanira,Hand,,37,,,n/a,,,,,328931,9814235,,"  12,613,316 "," $ 5,045 ",People of Kyangoye,Aris Martin fo Maria and James Martin,
+N23-7,Kyabijumba (Kyabjumba),YES,New,"1,700","1° 24' 25.27"" S","31° 33' 55.75"" E",Bukoba Rural,Kagera,30/8/2023,8/30/2023,Tanira,Hand,,30,,,n/a,,,,,340405,9844432,,"  12,350,816 "," $ 4,940 ",People of Kyabijumba,George W. and Helen Siouris Psaros,
+N23-8,Mgorogoro (Mugorogoro),YES,New,"2,200","1°27' 6.09"" S","30° 50' 34.6"" E",Kyerwa,Kagera,10/10/2023,10/10/2023,Indian Mark II,Hand,,  40.00 ,,,80,,,,,259993,9839429,,"  12,614,773 "," $ 5,046 ",,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Wells Developed 2024:   *Of these, 9 had pumps installed in 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-1,Ombweya II *,YES,New,"2,200","1° 37' 35.27"" S","31° 22' 42.3"" E",Bukoba Rural,Kagera,7/6/2024,6/7/2024,Indian Mark II,Hand,167,51,29,26,,Good,,,,,,NO,,,,,Pump installed Feb 2025
+N24-2,Karama Center *,YES,New,"1,900","1° 40' 17.68"" S","31° 25' 11.84"" E",Bukoba Rural,Kagera,15/6/2024,6/15/2024,Indian Mark II,Hand,131,40,31,28,,Good,,,,,,NO,,,,,Pump installed March 2025
+N24-3,Mabelegera *,YES,New,"1,841","1° 42' 21.3"" S","31° 25' 49.15"" E",Muleba,Kagera,10/7/2024,7/10/2024,Tanira,Hand,180,55,23,22,,Good,,,,,,NO,,,,,Pump installed March 2025 -- recommend change to Indian Mark II
+N24-4,Kikagate Ngenge *,YES,New,"2,200","1° 43' 8.08"" S","31° 26' 40.08"" E",Muleba,Kagera,16/07/2024,7/16/2024,Indian Mark II,Hand,157,48,21,19,,Good,,,,,,NO,,,,,Pump installed March 2025
+N24-5,"Kilamba Site ""Secondary School"" *",YES,New,"1,900","1° 44' 11.82"" S","31° 27' 13.65"" E",Muleba,Kagera,28/7/2024,7/28/2024,Tanira,Hand,138,42,23,19,,Good,,,,,,NO,,,,,Complete in 2024
+N24-6,Kilamba Centre *,YES,New,"1,541","1° 43' 33.49"" S","31° 27' 53.8"" E",Muleba,Kagera,12/8/2024,8/12/2024,Tanira,Hand,66,20,12,8,,Good,,,,,,NO,,,,,Pump installed March 2025
+N24-7,Kahio *,YES,New,935,"1° 42' 59.7"" S","31° 28' 17.95"" E",Muleba,Kagera,25/8/2024,8/25/2024,Tanira,Hand,108,33,11,8.5,,Good,,,,,,NO,,,,,Pump installed March 2025
+N24-8,"Mkoma ""a"" *",YES,New,227,"1° 45' 37.12"" S","31° 26' 3.79"" E",Muleba,Kagera,1/9/2024,9/1/2024,Tanira,Hand,135,41,16,8,,Good,,,,,,NO,,,,,Complete in  2024
+N24-9,Kiya *,YES,New,377,"1° 44' 47.2"" S","31° 25' 14.12"" E",Muleba,Kagera,28/08/2024,8/28/2024,Tanira,Hand,89,27,12,5,,Good,,,,,,NO,,,,,Complete in 2024
+N24-10,Ngenge *,YES,New,"8,031","1° 46' 21.22"" S","31° 27' 3.23"" E",Muleba,Kagera,8/9/2024,9/8/2024,Tanira,Hand,89,27,18,16,,Good,,,,,,NO,,,,,Complete in 2024
+N24-11,Kanshenya *,YES,New,647,"1° 46' 0.39"" S","31° 27' 1.24"" E",Muleba,Kagera,14/7/2024,7/14/2024,Tanira,Hand,112,34,18,14,,?,,,,327622,9804645,NO,,,,,Pump installed March 2025
+N24-12,Nyankanyasi *,YES,New,"2,515","1° 44' 46.56"" S","31° 77' 22.65"" E",Muleba,Kagera,20/9/2024,9/20/2024,Tanira,Hand,92,28,19,12,,?,,,,328282,9806914,NEW,,,,,Pump installed March 2025
+N24-13,Izimbya    NEED DATA SHEET,YES,New,?,"1° 33' 43.85"" S","31° 27' 34.74"" E",Bukoba Rural,Kagera,25/2/2022,6/15/2022,Tanira,Hand,?,?,?,?,?,?,?,?,?,328640,9827268,NO,,,,,well developed prior to 2023
+N24-14,Kyonga**    NO DATA SHEET? ask Adam,YES,New,?,?,?,Muleba,Kagera,15/1/2022,1/15/2022,Tanira,Hand,?,?,?,?,?,?,?,?,?,,,NO,,,,,*Working but now has a new electric pump/generator by Chrisostomos
+N24-15,Kagarama    NEED DATA SHEET,YES,New,?,"1° 24' 25.28"" S","31° 33' 55.68"" E",Bukoba Rural,Kagera,12/6/2023,6/12/2023,Indian Mark II,Hand,?,?,?,?,?,?,?,?,?,340403,9844432,NO,,,,,
+,* Qty 9 of  the 2024 wells had pumps installed in 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,**upgraded by Chrisostomos,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,∙,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Wells Developed 2025,(no new wells built from 1/1 - 7/19/2025 -- installing missing 2024 pumps),,,,,,,,,,,,,,,,,,,,,,,,,,,
+N25-1,Migara center,YES,New,990,"1°35'31.1"" S","31°30'16.28"" E",Bukoba Rural,Kagera,7/20/2025,7/20/2025,Tanira,Hand,131,40,14,9,n/a,Good,,,,333635,9823794,Yes - qty 9,,,,,
+N25-2,Buliyakashaju,YES,New,"1,820","1°36'15.52"" S","31°.23'15.59"" E",Bukoba Rural,Kagera,7/30/2025,7/30/2025,Tanira,Hand,157,48,22,18,n/a,Good,,,,320642,9822603,Yes - qty 6,,,,,Thankfully!
+N25-3,Kakoronto,YES,New,"1,650","1°35'43.03"" S","31°22'52.92"" E",Bukoba Rural,Kagera,7/30/2025,7/30/2025,Tanira,Hand,148,45,24,20,n/a,Good,,,,319927,9823603,Yes - qty 4,,,,,Thankfully!
+N25-4,Bwizo,YES,New,"2,800","1°35'56.57"" S","31°.24'7.68"" E",Bukoba Rural,Kagera,7/31/2025,7/31/2025,Tanira,Hand,125,38,13,7,n/a,Good,,,,322244.183E,9823188.389N,Yes - qty 6,,,,,Thankfully!
+N25-5,Kabwenge ,YES,New,"1,600","1 °35'1.16"" S","31°.23'33.37"" E",Bukoba Rural,Kagera,7/31/2025,7/31/2025,Tanira,Hand,118,36,6,2,n/a,Good,,,,321165.516E,9824896.104N,Yes - qty 8,,,,,Thankfully!
+N25-6,Lugando,YES,New,480,"1°35'16.86"" S","31°31'46.3"" E",Bukoba Rural,Kagera,7/31/2025,7/31/2025,Tanira,Hand,148,45,14,10,n/a,Good,,,,336417,9824417,Yes - qty 14,,,,,
+N25-7,Ichwandimi,YES,New,730,"1°34'39.32"" S","31°32'36.66"" E",Bukoba Rural,Kagera,8/7/2025,8/7/2025,?(chinese) 0.75HP,Electric,148,45,14,10,n/a,Good,,,,336417,9824417,Yes - qty 8 but no pump,,,,,
+N25-8,Ikongora,YES,New,"1,120","1°25'36.19"" S","31°33'44.75"" E",Bukoba Rural,Kagera,8/28/2025,8/28/2025,Tanira,Hand,148,45,17,14,n/a,Good,,,,340067.012E,9842254.281N,Yes - qty 4,,,,,
+N25-9,Kahyolo,YES,New,"1,100","1°23'58.01"" S","31°.31'41.05"" E",Bukoba Rural,Kagera,9/8/2025,9/8/2025,Indian Mark II,Hand,184,56,33,29,n/a,Good,,,,3362241.471E,9845267.233N,Yes - qty 22,,,,,
+N25-10,Kitundu ,YES,New,880,"1°24'13.97"" S","31°.32'5.66"" E",Bukoba Rural,Kagera,9/19/2025,9/19/2025,Indian Mark II,Hand,121,37,27,23,n/a,Good,,,,337002.548E,9844777.525N,Yes - qty 18,,,,,
+N25-11,MWAMANYILI A (Kisesa),YES,New,999,"2°32'5.09"" S","33°4'42.38"" E",Magu,Mwanza,10/16/2025,10/16/2025,Tanira,Hand,72,22,8,5,n/a,Good,,,,508719.731E,9719832.224N,Yes - qty 31,,,,,
+N25-12,MWAMANYILI B (Kisesa),YES,New,999,"2°31'47.47"" S","33°4'30.16"" E",Magu,Mwanza,10/20/2025,10/20/2025,Tanira,Hand,79,24,9,6,n/a,Good,,,,508342.536E,9720373.147N,Yes - qty 18,,,,,
